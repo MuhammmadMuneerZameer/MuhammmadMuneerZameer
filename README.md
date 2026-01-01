@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muneer Zameer</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammmadmuneerzameer" alt="muhammmadmuneerzameer" /></a> </p>
 
 - 🔭 I’m currently working on **Edtech Project**
 
